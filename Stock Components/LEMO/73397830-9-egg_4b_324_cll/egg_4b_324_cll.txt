@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-01102010-062776";"";
+"REFERENCE";"EGG.4B.324.CLL";"";
+"TraceParts.PartTitle";"Fixed receptacle, nut fixing (IP 50)";"";
+"TraceParts.InstanceId";"10-01102010-062776B63HOQPVDH2ZSWLMFC3V0VM9K";"";
+"DESIGN";"Fixed receptacle, nut fixing (IP 50)";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"LEMO";"";
+"TraceParts.PartVersion";"1.2.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"LEMO:/F_LEMO/10-01102010-062776";"";
